@@ -68,7 +68,7 @@
 - [ ] demo-springbatch（data process）
 - [ ] demo-security-justauth（use JustAuth to login GitHub，and use Spring-Security to manage login state）
 - [x] ~~demo-flyway（integrated Flyway to initialize tables and data in database, Flyway also support the sql script version control）~~
-
+- [ ] 更新pom依赖，尽量贴合现阶段生产
 ## Remarks
 
 Try to ensure that the corresponding demos are integrated in the order above.
