@@ -1,4 +1,4 @@
-# spring-boot-demo-helloworld
+    # spring-boot-demo-helloworld
 
 ## Runing spring boot demo helloworld
 
@@ -7,6 +7,7 @@
 ```
 ##
 > 本 demo 演示如何使用 Spring Boot 写一个hello world
+>>本demo可通过postman来调用相应路径以及查看返回结果，熟悉基本操作
 
 ### pom.xml
 ```xml
@@ -108,4 +109,5 @@ server:
   servlet:
     context-path: /demo
 ```
+
 
